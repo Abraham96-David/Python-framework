@@ -1,4 +1,4 @@
-# Briefencounter App RESTful APIs
+# 1)Briefencounter App RESTful APIs
 
 Brief Encounter is a UK based platform that will allow user to find legal representation using a mobile application or responsive website.
 

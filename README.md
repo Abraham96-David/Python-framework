@@ -3,6 +3,7 @@
 Brief Encounter is a UK based platform that will allow user to find legal representation using a mobile application or responsive website.
 
 ## Requirements
+. This is updated part
 . This part is made by me for learning more about github and how to work and why it is necessary.
 * [NodeJs](http://nodejs.org)
 * [mongodb](http://mongodb.org)
